@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+      <meta charset="UTF-8">
+      <meta http-equiv="X-UA-Compatible" context="IE=edge">
+      <meta name="viewport" content="width=device-width, intial-scale-1.0">
+      <title>Document</chapter1>
+</head>
+<body>
+
+    <header>
+        <div>
+            <nav>
+                <ul>
+                    <li><a href="contact">contact</a></li>
+                    <li><a href="news">News</a></li>
+                    <li><a href="about">About</a></li>
+                    <li><a href="home">/a>Home</li>
+                    </ul>
+            </nav>
+        </div>
+    </header>
+
+<h1>Day One </h1>
+      <p>my very first day of programming class </p>
+
+
+<footer>
+    <p>&copy; Copyright 2023. All Right Reserved.</p>
+    <p>Mickeys website@gmail.com</p>
+</footer>
+</body>
+</html>
